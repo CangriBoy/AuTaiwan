@@ -16,7 +16,7 @@ User:WILLMODZ|-|Pass:AuTaiwan|-|Hwid:x =END  //funcion bugs
 
 
 User:gianirvana|-|Pass:gianirvana|-|Hwid:9392E726A51D739DFC3AFE5B3A3DEE84 =END
-01/01/2022 //fecha de inicio
+10/07/2025 //fecha de inicio
 30/12/2025 //fecha final
 
 User:gianirvana|-|Pass:gianirvana|-|Hwid:A =END
