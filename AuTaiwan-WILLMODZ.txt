@@ -100,6 +100,10 @@ User:WILLMODZ|-|Pass:AuTaiwan|-|Hwid:388B9B409DCBE94C8E946E45E419AD8C =END
 30/07/2025 //fecha final
 
 
+User:WILLMODZ|-|Pass:AuTaiwan|-|Hwid:F0BA9142BBECFE038BBF98F55A4644D7 =END
+23/05/2025 //fecha de inicio
+30/07/2025 //fecha final
+
 
 User:WILLMODZ|-|Pass:AuTaiwan|-|Hwid:A =END  //Auto Function
 User:WILLMODZ|-|Pass:AuTaiwan|-|Hwid:B =END  //Funcion vip
