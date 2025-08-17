@@ -1,6 +1,6 @@
-1.1.9.0
+1.1.9.2
 
-30322E32372E34352E736100
+30322E32372E34362E736100
 asd12345678asd
 
 
@@ -28,6 +28,43 @@ User:gianirvana|-|Pass:gianirvana|-|Hwid:D =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:E =END
 User:gianirvana|-|Pass:gianirvana|-|Hwid:F =END
 
+
+
+//Julio Ramos 4 de agosto 
+User:JulioRS|-|Pass:JulioRS|-|Hwid:A64ECFB08AF7C177232626447740BBC0 =END
+04/08/2025  //Inicio
+04/09/2025  //Final
+
+User:JulioRS|-|Pass:JulioRS|-|Hwid:B =END
+User:JulioRS|-|Pass:JulioRS|-|Hwid:C =END
+
+--------------------------------------------------------------------------------
+//rocardo de la cruz 4 de agosto
+User:RicardoDLC|-|Pass:RicardoDLC|-|Hwid:BDC4F2A373902B9CDA3A1586412C5163 =END
+04/08/2025  //Inicio
+04/09/2025  //Final
+
+User:RicardoDLC|-|Pass:RicardoDLC|-|Hwid:B =END
+
+--------------------------------------------------------------------------------
+//Scarleth Plaza Z 3 de agosto
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:8626D5050A25EB007D0509710E0CC900 =END
+03/08/2025  //Inicio
+03/09/2025  //Final
+
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:A =END
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:B =END
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:C =END
+User:ScarlethPZ|-|Pass:ScarlethPZ|-|Hwid:D =END
+
+--------------------------------------------------------------------------------
+//de josue sandoval solo vip
+User:PatoPatin|-|Pass:PatoPatin|-|Hwid:E057DF26C6D6F9DE59072B371A2D5088 =END
+01/08/2025  //Inicio
+01/09/2025  //Final
+
+User:PatoPatin|-|Pass:PatoPatin|-|Hwid:B =END
+
 --------------------------------------------------------------------------------
 //Jerson Aparco 22 de julio
 User:JersonAP|-|Pass:JersonAP|-|Hwid:3FD3D344C02C4DF55AEF266011E621A2 =END
@@ -49,10 +86,10 @@ User:JorgeRR|-|Pass:JorgeRR|-|Hwid:B =END
 User:JorgeRR|-|Pass:JorgeRR|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//jenifer cliente de wssp 10 de julio
-User:JeniferOs|-|Pass:JeniferOs|-|Hwid:8F78AE8128EC5FC1269F037852BC7D8B =END
+//jenifer cliente de wssp 10 de julio User:JeniferOs|-|Pass:JeniferOs|-|Hwid:8F78AE8128EC5FC1269F037852BC7D8BXX =END
+User:JeniferOs|-|Pass:JeniferOs|-|Hwid:EC51BFBE9AA2D3679A485E6D7835ABAF =END
 10/07/2025  //Inicio
-11/08/2025  //Final
+11/09/2025  //Final
 
 User:JeniferOs|-|Pass:JeniferOs|-|Hwid:A =END
 User:JeniferOs|-|Pass:JeniferOs|-|Hwid:B =END
@@ -67,10 +104,10 @@ User:AJVARGAS|-|Pass:AJVARGAS|-|Hwid:FDF48F84D94D7CFFB09F0DC006C7EE01 =END
 User:AJVARGAS|-|Pass:AJVARGAS|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//amiga de jhordan falta code
+//amiga de jhordan pendiente 2 meses
 User:Hatmik|-|Pass:Hatmik|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7 =END
 02/07/2025  //Inicio
-03/08/2025  //Final
+06/09/2025  //Final
 
 User:Hatmik|-|Pass:Hatmik|-|Hwid:A =END
 User:Hatmik|-|Pass:Hatmik|-|Hwid:B =END
@@ -78,7 +115,7 @@ User:Hatmik|-|Pass:Hatmik|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //amiga de jhordan hatmik falta code
-User:Suiii|-|Pass:Suiii|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7 =END
+User:Suiii|-|Pass:Suiii|-|Hwid:6D00D4556D53B4111960DAF019ED3BD7x =END
 02/07/2025  //Inicio
 03/08/2025  //Final
 
@@ -87,10 +124,10 @@ User:Suiii|-|Pass:Suiii|-|Hwid:B =END
 User:Suiii|-|Pass:Suiii|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Adrian B 2 de julio
+//Adrian B 8 de agosto
 User:AdrianB|-|Pass:AdrianB|-|Hwid:E55756C244EE96B1AE6DB8F8BCF6788B =END
-02/07/2025  //Inicio
-03/08/2025  //Final
+08/08/2025  //Inicio
+09/09/2025  //Final
 
 User:AdrianB|-|Pass:AdrianB|-|Hwid:A =END
 User:AdrianB|-|Pass:AdrianB|-|Hwid:B =END
@@ -107,14 +144,15 @@ User:ReyzonTV|-|Pass:ReyzonTV|-|Hwid:B =END
 User:ReyzonTV|-|Pass:ReyzonTV|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-cristhian max 1 de julio
+cristhian max 1 de agosto 
 User:xNeru|-|Pass:1234|-|Hwid:FBFB1E2AF035378451124483751788C0 =END
 01/07/2025  //Inicio
-01/08/2025  //Final
+09/09/2025  //Final
 
 User:xNeru|-|Pass:1234|-|Hwid:A =END
 User:xNeru|-|Pass:1234|-|Hwid:B =END
 User:xNeru|-|Pass:1234|-|Hwid:C =END
+User:xNeru|-|Pass:1234|-|Hwid:E =END
 
 --------------------------------------------------------------------------------
 //de rosita + 30dias
@@ -136,18 +174,18 @@ User:DannyAG|-|Pass:DannyAG|-|Hwid:B =END
 User:DannyAG|-|Pass:DannyAG|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//renato toledo 20 de junio
+//renato toledo 25 de julio
 User:RenatoTD|-|Pass:RenatoTD|-|Hwid:D2D6D072F6F113BED5FF2D4C96193E68 =END
-19/06/2025  //Inicio
-25/07/2025  //Final
+25/07/2025  //Inicio
+25/08/2025  //Final
 
 User:RenatoTD|-|Pass:RenatoTD|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 // amigo de jhordan Bony chanel
 User:AlexSD|-|Pass:AlexSD|-|Hwid:FEA39EDF14C01C9A733D21D4408B57ED =END
-14/06/2025  //Inicio
-15/08/2025  //Final
+17/08/2025  //Inicio
+17/09/2025  //Final
 
 User:AlexSD|-|Pass:AlexSD|-|Hwid:A =END
 User:AlexSD|-|Pass:AlexSD|-|Hwid:B =END
@@ -182,28 +220,28 @@ User:CristianPB|-|Pass:CristianPB|-|Hwid:B =END
 User:CristianPB|-|Pass:CristianPB|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Furuya Seoh 1 de julio
+//Furuya Seoh 5 de agosto
 User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:D15369106CEA7E7220AE4532ADFDF284 =END
-04/07/2025 //fecha de inicio
-05/08/2025 //fecha final
+04/08/2025 //fecha de inicio
+05/09/2025 //fecha final
 
 User:FuruyaSH|-|Pass:FuruyaSH|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Melany WS 01 de junio
+//Melany WS 06 de agosto
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:05CA328E85ABAFC70401773EB0AE589A =END
-01/07/2025 //fecha de inicio
-02/08/2025 //fecha final
+05/08/2025 //fecha de inicio
+06/09/2025 //fecha final
 
-User:MelanyWS|-|Pass:MelanyWS|-|Hwid:A =END
+User:MelanyWS|-|Pass:MelanyWS|-|Hwid:x =END
 User:MelanyWS|-|Pass:MelanyWS|-|Hwid:B =END
-User:MelanyWS|-|Pass:MelanyWS|-|Hwid:C =END
+User:MelanyWS|-|Pass:MelanyWS|-|Hwid:x =END
 
 --------------------------------------------------------------------------------
-//Alesia  leonela 7 de julio 
+//Alesia  leonela 8 de agosto
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:D71FD69B2D7755720AD556BD43BE1B35 =END
-07/07/2025 //fecha de inicio
-08/08/2025 //fecha final
+07/08/2025 //fecha de inicio
+08/09/2025 //fecha final
 
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:A =END
 User:AlessiaLN|-|Pass:AlessiaLN|-|Hwid:B =END
@@ -220,10 +258,10 @@ User:HaelYS|-|Pass:HaelYS|-|Hwid:B =END
 User:HaelYS|-|Pass:HaelYS|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Luis Antonio Gomez  20 de mayo 2 mese + 20so
+//Luis Antonio Gomez  17 de agosto
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:53816F36CD5D008D791F6149B287E9D7 =END
-19/04/2025  //Inicio
-12/08/2025  //Final
+17/08/2025  //Inicio
+18/09/2025  //Final
 
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:A =END
 User:LuisGZ|-|Pass:LuisGZ|-|Hwid:B =END
@@ -308,12 +346,13 @@ User:JorgeZG|-|Pass:JorgeZG|-|Hwid:27D82FC9A652F50D06BE470824EDBDD5 =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:A =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:B =END
 User:JorgeZG|-|Pass:JorgeZG|-|Hwid:C =END
+User:JorgeZG|-|Pass:JorgeZG|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
-//Paolo ramirez 8 julio
+//Paolo ramirez 8 agosto
 User:PaoloRZ|-|Pass:PaoloRZ|-|Hwid:101EF0F1AC39E51381358ABB10AAA254 =END
-07/07/2025
-08/08/2025
+06/08/2025
+08/09/2025
 
 User:PaoloRZ|-|Pass:PaoloRZ|-|Hwid:B =END
 
@@ -344,10 +383,10 @@ User:KamilaOT|-|Pass:KamilaOT|-|Hwid:121D54AD3EB15E63302B8FD1346D18D0 =END
 User:KamilaOT|-|Pass:KamilaOT|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//alex rojas  15 de junio 
+//alex rojas 04 de agosto
 User:AlexRS|-|Pass:AlexRS|-|Hwid:6924820E73E5F46A3B7601B4D7910C9A =END
-15/06/2025
-17/07/2025
+04/08/2025
+05/09/2025
 
 User:AlexRS|-|Pass:AlexRS|-|Hwid:B =END
 
@@ -378,10 +417,10 @@ User:Rinker|-|Pass:Rinker|-|Hwid:B =END
 User:Rinker|-|Pass:Rinker|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
-//liam Junnior 21 de de junio
+//liam Junnior 28 de de junio
 User:Junniormateo|-|Pass:Junnior|-|Hwid:48CD8624AE88CCE99E9B54DC12E10C21 =END
-18/06/2025 //Inicio 
-28/07/2025 //Final
+28/07/2025 //Inicio 
+28/08/2025 //Final
 
 User:Junniormateo|-|Pass:Junnior|-|Hwid:B =END
 
@@ -394,15 +433,15 @@ User:CesarTs|-|Pass:CesarTs|-|Hwid:A157E80FCB68E61D2E784EB9A21C579D =END
 User:CesarTs|-|Pass:CesarTs|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Renzo Cota 21 de mayo
-User:RenzoCt|-|Pass:RenzoCt|-|Hwid:6EAA5C4743814F003227F3975E0E44AA =END
-21/05/2025 //fecha de inicio
-21/06/2025 //fecha final
+//Renzo Cota 5 de agosto
+User:RenzoCt|-|Pass:RenzoCt|-|Hwid:86A711431188825EA22B72199FBEFD4F =END
+04/08/2025 //fecha de inicio
+05/09/2025 //fecha final
 
 User:RenzoCt|-|Pass:RenzoCt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Christian Balbin de wssp de  20 de junio
+//Christian Balbin de wssp de  20 de julio
 User:ChristianB|-|Pass:ChristianB|-|Hwid:ADAB02B7B17FAEB5D333A426B6748C61 =END
 16/06/2024  //Inicio
 20/08/2025  //Final
@@ -417,17 +456,29 @@ User:eterno|-|Pass:eterno|-|Hwid:B8005C0F9C548DCDD87873321C9F87BA =END
 17/07/2025  //Inicio
 22/08/2025  //Final
 
-User:eterno|-|Pass:eterno|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
+User:eterno|-|Pass:eterno|-|Hwid:E98216584BD30A3844682B33EB46ED7E =END
 17/07/2025  //Inicio
 22/08/2025  //Final
 
-User:eterno|-|Pass:eterno|-|Hwid:E98216584BD30A3844682B33EB46ED7E =END
+User:eterno|-|Pass:eterno|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
 17/07/2025  //Inicio
 22/08/2025  //Final
 
 User:eterno|-|Pass:eterno|-|Hwid:A =END
 User:eterno|-|Pass:eterno|-|Hwid:B =END
 User:eterno|-|Pass:eterno|-|Hwid:C =END
+
+
+
+
+User:eterno1|-|Pass:eterno1|-|Hwid:DA72DB54736C7076B38135089D2A5A2C =END
+17/07/2025  //Inicio
+22/09/2025  //Final
+
+User:eterno1|-|Pass:eterno1|-|Hwid:A =END
+User:eterno1|-|Pass:eterno1|-|Hwid:B =END
+User:eterno1|-|Pass:eterno1|-|Hwid:C =END
+User:eterno1|-|Pass:eterno1|-|Hwid:F =END
 
 --------------------------------------------------------------------------------
 //Angel amigo de Jhordan rositas
@@ -499,13 +550,13 @@ User:StefanyAs|-|Pass:StefanyAs|-|Hwid:A880B0D059A035FF2B99764D8BCB2740 =END
 User:StefanyAs|-|Pass:StefanyAs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-// Jesus Mrt
-User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B911B0075AAA7DB191D83BDE06942671x =END
-18/03/2025 //fecha de inicio
-05/06/2025 //fecha final
+// Jesus Mrt 6 de agosto
+User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B911B0075AAA7DB191D83BDE06942671 =END
+06/08/2025 //fecha de inicio
+06/09/2025 //fecha final
 
 User:JesusMrt|-|Pass:JesusMrt|-|Hwid:A =END
-User:JesusMrt|-|Pass:JesusMrt|-|Hwid:x =END
+User:JesusMrt|-|Pass:JesusMrt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
 //amiga de angel donayre 19 de abril
@@ -528,10 +579,10 @@ User:AngelDonayre|-|Pass:AngelDonayre|-|Hwid:B =END
 User:AngelDonayre|-|Pass:AngelDonayre|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//jorge Luis berrio 18 de marzo
+//jorge Luis berrio 8 de agosto
 User:jorgexddd|-|Pass:jorgexdxd|-|Hwid:9A66621E63BEF5C16C4940F0B75CA289 =END
-18/03/2025 //fecha de inicio
-18/04/2025 //fecha final
+07/08/2025 //fecha de inicio
+08/09/2025 //fecha final
 
 User:jorgexddd|-|Pass:jorgexdxd|-|Hwid:A =END
 User:jorgexddd|-|Pass:jorgexdxd|-|Hwid:B =END
@@ -605,10 +656,10 @@ User:JefryAz|-|Pass:JefryAz|-|Hwid:B =END
 User:JefryAz|-|Pass:JefryAz|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//eduardo rojas 29 de mayo
+//eduardo rojas 31 de julio
 User:EduardoRs|-|Pass:EduardoRs|-|Hwid:D116076746AC1C5C2FE32E6350620CB7 =END
-29/03/2025 //fecha de inicio
-31/07/2025 //fecha final
+31/07/2025 //fecha de inicio
+31/08/2025 //fecha final
 
 User:EduardoRs|-|Pass:EduardoRs|-|Hwid:B =END
 
@@ -843,14 +894,14 @@ User:JeanPatt|-|Pass:JeanPatt|-|Hwid:238B149F8D7D6E1EDE246707E4AFD602 =END
 User:JeanPatt|-|Pass:JeanPatt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//<Elen andrade 13 de junio 2meses pc y lap
+//<Elen andrade 13 de agosto 3meses pc y lap
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:56192A63FF6132BD1DAD242BB0B1A5AF =END
-13/06/2024 //Inicio 
-15/08/2025 //Final
+13/08/2024 //Inicio 
+15/11/2025 //Final
 
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:D0F8AA256F8133F44D66A7721BB1BFD8 =END
-13/06/2024 //Inicio 
-15/08/2025 //Final
+13/08/2024 //Inicio 
+15/11/2025 //Final
 
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:A =END
 User:ElenAdd|-|Pass:ElenAdd|-|Hwid:B =END
@@ -949,10 +1000,10 @@ User:Chocolatito|-|Pass:Chocolatito|-|Hwid:B =END
 User:Chocolatito|-|Pass:Chocolatito|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Andrea GA 30 de mayo
+//Andrea GA 23 de julio pendiente 20so
 User:AndreaGA|-|Pass:AndreaGA|-|Hwid:759B2CAC6B3710F6F1929F3DAEE18754 =END
-26/04/2025  //Inicio
-01/07/2025  //Final
+23/07/2025  //Inicio
+24/08/2025  //Final
 
 User:AndreaGA|-|Pass:AndreaGA|-|Hwid:A =END
 User:AndreaGA|-|Pass:AndreaGA|-|Hwid:B =END
@@ -968,10 +1019,10 @@ User:JoseCt|-|Pass:JoseCt|-|Hwid:B0588D6ABDA7A607639D4FACA205CA0A =END
 User:JoseCt|-|Pass:JoseCt|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//heydi saca 6 de julio
+//heydi saca 8 de agosto
 User:heysc|-|Pass:heysc925|-|Hwid:27CD7EF88A6F63B6195EF1F89D5F6AA4 =END
-04/05/2025  //Inicio
-07/08/2025 //Final
+04/08/2025  //Inicio
+08/09/2025 //Final
 
 User:heysc|-|Pass:heysc925|-|Hwid:A =END
 User:heysc|-|Pass:heysc925|-|Hwid:B =END
@@ -1003,11 +1054,10 @@ User:vortex1|-|Pass:vortex1|-|Hwid:E =END
 User:vortex1|-|Pass:vortex1|-|Hwid:G =END
 
 --------------------------------------------------------------------------------
-//sergio lopez 10 de enero
-
+//sergio lopez 10 dias 27 de julio
 User:SergioLz|-|Pass:SergioLz|-|Hwid:064A649A3E287F79123ED8349EB27DEF =END
-26/01/2025
-08/02/2025
+27/07/2025
+07/08/2025
 
 User:SergioLz|-|Pass:SergioLz|-|Hwid:A =END
 User:SergioLz|-|Pass:SergioLz|-|Hwid:B =END
@@ -1051,10 +1101,10 @@ User:CataAudi|-|Pass:CataAudi|-|Hwid:B =END
 User:CataAudi|-|Pass:CataAudi|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//jeff santa cruz 9 de julio, pendiente
+//jeff santa cruz 12 de agosto
 User:JeffSC|-|Pass:JeffSC|-|Hwid:96B684C8FE27678EE688B30CC0E4F2F2 =END
-09/07/2025
-10/08/2025
+12/07/2025
+13/09/2025
 
 User:JeffSC|-|Pass:JeffSC|-|Hwid:A =END
 User:JeffSC|-|Pass:JeffSC|-|Hwid:B =END
@@ -1090,30 +1140,29 @@ User:JcGabriel|-|Pass:JcGabriel|-|Hwid:1B95B78FDCC0DA04F06076507ABF9F73 =END
 14/05/2025
 22/08/2025
 
+User:JcGabriel|-|Pass:JcGabriel|-|Hwid:A =END
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:B =END
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:C =END
 User:JcGabriel|-|Pass:JcGabriel|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
-//Jesus King 30 de diciembre
-User:JesusKing|-|Pass:JesusKing|-|Hwid:33DA6EC4BC1A76E6FE81F058574188B2 =END
-29/12/2024
-30/01/2025
+//Jesus King 6 de agosto
+User:JesusKing|-|Pass:JesusKing|-|Hwid:56CAAC3C2BF25114D25B70A0DA2785CD =END
+05/08/2024
+06/09/2025
 
 User:JesusKing|-|Pass:JesusKing|-|Hwid:A =END
 User:JesusKing|-|Pass:JesusKing|-|Hwid:B =END
-User:JesusKing|-||Pass:JesusKing|-|Hwid:C =END
+User:JesusKing|-|Pass:JesusKing|-|Hwid:C =END
 User:JesusKing|-|Pass:JesusKing|-|Hwid:D =END
 
 --------------------------------------------------------------------------------
-//Kevin Dolores
-User:KevinDs|-|Pass:KevinDs|-|Hwid:C3539CC0F1610FBC495D83294D2FB224 =END
-27/10/2024
-28/11/2024
+//Kevin Dolores 12 de agosto
+User:KevinDs|-|Pass:KevinDs|-|Hwid:A3E0C5BF9FFA219D3E8ADE080D9F9BE2 =END
+12/08/2025
+13/09/2025
 
-User:KevinDs|-|Pass:KevinDs|-|Hwid:A =END
 User:KevinDs|-|Pass:KevinDs|-|Hwid:B =END
-User:KevinDs|-|Pass:KevinDs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //Luis Angel LG 25 de octubre
@@ -1248,10 +1297,10 @@ User:DanielRC|-|Pass:DanielRC|-|Hwid:B =END
 User:DanielRC|-|Pass:DanielRC|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-//Jimmy Sandoval 13 julio
+//Jimmy Sandoval 13 agosto
 User:sabrosito123|-|Pass:sabrosito123|-|Hwid:4144F6D6ED476C2AF4DAD34A99137125 =END
 13/07/2025
-13/08/2025
+13/09/2025
 
 User:sabrosito123|-|Pass:sabrosito123|-|Hwid:A =END
 User:sabrosito123|-|Pass:sabrosito123|-|Hwid:B =END
@@ -1286,10 +1335,10 @@ User:DxAriana|-|Pass:DxAriana|-|Hwid:E68FF345BE3330BD41A66A19CA2BFD22 =END
 User:DxAriana|-|Pass:DxAriana|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//KATHERINE LE 23 de junio
+//KATHERINE LE 24 de julio, pendiente
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:9AEB5F03F376AA701BE42D686DEDD7D7 =END
-23/06/2025  //Inicio
-25/07/2025  //Final
+24/07/2025  //Inicio
+26/08/2025  //Final
 
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:A =END
 User:KatherineLe|-|Pass:KatherineLe|-|Hwid:B =END
@@ -1317,7 +1366,7 @@ User:JossBs|-|Pass:JossBs|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
 //de ronal 4 de julio
-User:ErickR|-|Pass:ErickR|-|Hwid:91F192CABBB7EBDFFB8D56B8CCA290BC =END
+User:ErickR|-|Pass:ErickR|-|Hwid:FED5A93AA9CCD45F7DCBE3A2F1A68240 =END
 02/07/2025 //Inicio 
 04/08/2025 //Final
 
@@ -1346,10 +1395,10 @@ User:ColbertA|-|Pass:ColbertA|-|Hwid:532ABB0B3E4415A4D49C2B3140FD2504 =END
 User:ColbertA|-|Pass:ColbertA|-|Hwid:B =END
 
 --------------------------------------------------------------------------------
-//Gerson Chirinos 30 de junio
+//Gerson Chirinos 31 de julio pendiente
 User:GersonCh|-|Pass:GersonCh|-|Hwid:A976D6DD9D07C46D16065AE07D49B236 =END
-26/03/2025  //Inicio
-31/07/2025  //Final
+26/07/2025  //Inicio
+31/08/2025  //Final
 
 User:GersonCh|-|Pass:GersonCh|-|Hwid:A =END
 User:GersonCh|-|Pass:GersonCh|-|Hwid:B =END
@@ -1357,8 +1406,8 @@ User:GersonCh|-|Pass:GersonCh|-|Hwid:C =END
 
 
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:E1D1E3573BB279A8AB3000282D527967 =END
-26/03/2025  //Inicio
-31/07/2025  //Final
+26/07/2025  //Inicio
+31/08/2025  //Final
 
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:A =END
 User:GersonCh1|-|Pass:GersonCh1|-|Hwid:B =END
@@ -1386,10 +1435,10 @@ User:Nicolo956|-|Pass:Nicolo956|-|Hwid:B =END
 User:Nicolo956|-|Pass:Nicolo956|-|Hwid:C =END
 
 --------------------------------------------------------------------------------
-// Aldair VS 10 de julio, pendiente de pop
+// Aldair VS 10 de agosto , pendiente d+ pop
 User:AldaVs|-|Pass:AldaVs|-|Hwid:7D69B00E68DE2BF7BBAF0982B369F485 =END
 09/07/2025 //fecha de inicio
-10/08/2025 //fecha final
+10/09/2025 //fecha final
 
 User:AldaVs|-|Pass:AldaVs|-|Hwid:A =END
 User:AldaVs|-|Pass:AldaVs|-|Hwid:B =END
@@ -1487,3 +1536,5 @@ User:Pecosita|-|Pass:Pecosita|-|Hwid:76117D808A0A232F1737436B92CE858E =END
 05/04/2025
 
 User:Pecosita|-|Pass:Pecosita|-|Hwid:C =END
+
+
